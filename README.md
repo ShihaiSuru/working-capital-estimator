@@ -1,2 +1,8 @@
-# working-capital-estimator
-Estimate working capital requirements for MSMEs
+# Working Capital Estimator
+
+Estimate working capital needs for Indian MSMEs.
+
+## Usage
+```bash
+python estimator.py
+```
